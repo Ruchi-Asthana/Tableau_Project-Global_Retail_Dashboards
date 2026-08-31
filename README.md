@@ -44,11 +44,11 @@ Build interactive Tableau dashboards that help management understand *sales tren
 28. Provide your insights to help management make decisions.
 ## Sales Overview Dashboard
 
-<img width="2249" height="2249" alt="SalesOverview" src="https://github.com/user-attachments/assets/77c5c400-507d-4c5f-ac08-6bbef8724616" />
+<img width="2249" height="1865" alt="SalesOverview" src="https://github.com/user-attachments/assets/b9c8c01c-b3bd-4f35-981f-707e078f74dc" />
 
 ## Product and Customer Dashboard
 
-<img width="2249" height="2249" alt="ProductCustomer" src="https://github.com/user-attachments/assets/ff9efcd4-03c5-40cd-8260-0a67ac36a2fb" />
+<img width="2249" height="2132" alt="ProductCustomer" src="https://github.com/user-attachments/assets/098e2e11-d230-4494-9d6b-0466618615c9" />
 
 ## Key Insights
 * Monthly sales trend is consistent over the years except for a steep decline in December 2024.
