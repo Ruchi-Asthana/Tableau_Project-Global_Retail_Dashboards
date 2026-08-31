@@ -45,11 +45,9 @@ Build interactive Tableau dashboards that help management understand *sales tren
 ## Sales Overview Dashboard
 
 <img width="2249" height="2249" alt="SalesOverview" src="https://github.com/user-attachments/assets/77c5c400-507d-4c5f-ac08-6bbef8724616" />
-
 ## Product and Customer Dashboard
 
 <img width="2249" height="2249" alt="ProductCustomer" src="https://github.com/user-attachments/assets/ff9efcd4-03c5-40cd-8260-0a67ac36a2fb" />
-
 ## Key Insights
 * Monthly sales trend is consistent over the years except for a steep decline in December 2024.
 * Highest sales occur in November 2024, just before the sharp fall.
